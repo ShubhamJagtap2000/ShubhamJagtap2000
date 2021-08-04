@@ -11,8 +11,8 @@
 <!-- 😄 Pronouns: ... -->
 - ⚡ Fun fact: NOTHING
 >
-<!-- <h1 align="center">Hi 👋, I'm SHUBHAM</h1>
-<h3 align="center">A passionate programmer/tech enthusiast/content creator/hacker(noob)/blogger from Maharashtra, India</h3>
+<h1 align="center">Hi 👋, I'm SHUBHAM</h1>
+<!-- <h3 align="center">A passionate programmer/tech enthusiast/content creator/hacker(noob)/blogger from Maharashtra, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjagtap2000&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjagtap2000" /> </p>
 
