@@ -9,7 +9,7 @@
 - 💬 Ask me about CODING, PYTHON, OPENCV, BLOGGING, INSTAGRAM CONTENT, ETHICAL HACKING
 <!-- 📫 How to reach me: ... -->
 <!-- 😄 Pronouns: ... -->
-- ⚡ Fun fact: NOTHING
+- ⚡ Fun fact: NOTHING!
 >
 <h1 align="center">Hi 👋, I'm SHUBHAM</h1>
 <!-- <h3 align="center">A passionate programmer/tech enthusiast/content creator/hacker(noob)/blogger from Maharashtra, India</h3>
