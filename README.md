@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on PROGRAMMING
+- 🔭 I’m currently working on COMPUTER NETWORKING
 
 - 🌱 I’m currently learning DSA
 <!-- 👯 I’m looking to collaborate on --> 
