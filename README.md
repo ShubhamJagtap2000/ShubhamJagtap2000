@@ -27,5 +27,5 @@
 <a href="https://www.codechef.com/users/shubhamjag_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubhamjag_123" height="35" width="40" /></a>
 <a href="https://www.hackerrank.com/shubhamjhacko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamjhacko" height="35" width="40" /></a>
 <a href="https://twitter.com/shubhamjag1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamjag1" height="35" width="40" /></a>
-<a href="https://tryhackme.com/p/jagtapshubham14" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/jagtapshubham14.png" alt="TryHackMe" height="35" width="140" /></a>
+<a href="https://tryhackme.com/p/jagtapshubham14" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/jagtapshubham14.png" alt="TryHackMe" height="35" width="145" /></a>
 </p>
