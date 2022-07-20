@@ -38,7 +38,7 @@
 
 ## Tech Profiles
 
-<a href="https://www.codechef.com/users/shubhamjag_123"><img title="CodeChef" align="center" src="https://camo.githubusercontent.com/ccb5a051989c2ffe08f1923845d7611fc6f73b25d610fbebbffd300a5e79f8ed/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f636f6465636865665f7368617265642f6d6973632f66622d696d6167652d69636f6e2e706e67" alt="shubhamjag_123" width="40" /></a>|<a href="https://www.hackerrank.com/shubhamjhacko"><img title="HackerRank" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamjhacko" width="40" /></a>|<a href="https://tryhackme.com/p/jagtapshubham14" target="blank"><img title="TryHackMe" align="center" src="https://tryhackme-badges.s3.amazonaws.com/jagtapshubham14.png" alt="TryHackMe" height="37" width="146" /></a>
+<a href="https://www.codechef.com/users/shubhamjag_123"><img title="CodeChef" align="center" src="https://camo.githubusercontent.com/ccb5a051989c2ffe08f1923845d7611fc6f73b25d610fbebbffd300a5e79f8ed/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f636f6465636865665f7368617265642f6d6973632f66622d696d6167652d69636f6e2e706e67" alt="shubhamjag_123" width="40" /></a>|<a href="https://www.hackerrank.com/shubhamjhacko"><img title="HackerRank" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamjhacko" width="40" /></a>|<a href="https://tryhackme.com/p/jagtapshubham14" target="blank"><img title="TryHackMe" align="center" src="https://tryhackme-badges.s3.amazonaws.com/jagtapshubham14.png" alt="TryHackMe" height="37" width="147" /></a>
 |--|--|--|
 <br>
 
