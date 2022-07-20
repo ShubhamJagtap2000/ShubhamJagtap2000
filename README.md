@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hello, I'm SHUBHAM <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
 - 🔭 I’m currently working on COMPUTER NETWORKING, CYBERSECURITY
@@ -10,8 +10,7 @@
 <!-- 📫 How to reach me: ... -->
 <!-- 😄 Pronouns: ... -->
 - ⚡ Fun fact: NOTHING!
->
-<h1 align="center">Hi, I'm SHUBHAM <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjagtap2000&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjagtap2000" /> </p>
 
