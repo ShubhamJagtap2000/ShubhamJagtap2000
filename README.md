@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjagtap2000&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjagtap2000" /> </p>
 
-## Skill set
+## Skills
 
 ##### These are some of the major technologies that I use or have worked on in the past:
 <br>
