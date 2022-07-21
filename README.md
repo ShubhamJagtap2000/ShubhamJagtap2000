@@ -12,7 +12,7 @@
 - ⚡ Fun fact: NOTHING!
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjagtap2000&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjagtap2000" /> </p>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjagtap2000&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjagtap2000" /> </p-->
 
 ## Skills
 
