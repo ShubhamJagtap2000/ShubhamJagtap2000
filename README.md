@@ -9,7 +9,7 @@
 - 💬 Ask me about CODING, PYTHON, OPENCV, BLOGGING, INSTAGRAM CONTENT, ETHICAL HACKING
 <!-- 📫 How to reach me: ... -->
 <!-- 😄 Pronouns: ... -->
-- ⚡ Fun fact: NOTHING!
+- ⚡ Fun fact: **NOTHING!**
 <br>
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjagtap2000&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjagtap2000" /> </p-->
