@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on COMPUTER NETWORKING, CYBERSECURITY
 
-- 🌱 I’m currently learning DSA
+<!--🌱 I’m currently learning DSA -->
 <!-- 👯 I’m looking to collaborate on --> 
 <!-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about CODING, PYTHON, OPENCV, BLOGGING, INSTAGRAM CONTENT, ETHICAL HACKING
