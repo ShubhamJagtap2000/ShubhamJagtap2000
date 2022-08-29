@@ -1,7 +1,7 @@
 <h1>Hello, I'm SHUBHAM <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
-- 🔭 I’m currently working on COMPUTER NETWORKING, CYBERSECURITY
+- 🔭 I’m currently working on RUST PROGRAMMING, CYBERSECURITY
 
 <!--🌱 I’m currently learning DSA -->
 <!-- 👯 I’m looking to collaborate on --> 
