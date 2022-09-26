@@ -2,6 +2,8 @@
 
 
 - 🔭 I’m currently working on RUST PROGRAMMING, CYBERSECURITY
+- :star: Actively contributing to **HACKTOBERFEST2022** 
+ 
 
 <!--🌱 I’m currently learning DSA -->
 <!-- 👯 I’m looking to collaborate on --> 
