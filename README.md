@@ -64,9 +64,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/1) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
-2. 💪 Opened PR [#1](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/1) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
-3. 🎉 Merged PR [#6](https://github.com/ShubhamJagtap2000/Metasploit/pull/6) in [ShubhamJagtap2000/Metasploit](https://github.com/ShubhamJagtap2000/Metasploit)
-4. 💪 Opened PR [#6](https://github.com/ShubhamJagtap2000/Metasploit/pull/6) in [ShubhamJagtap2000/Metasploit](https://github.com/ShubhamJagtap2000/Metasploit)
-5. 🎉 Merged PR [#10](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/10) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
+1. ❗️ Opened issue [#123](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/123) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+2. 🎉 Merged PR [#1](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/1) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
+3. 💪 Opened PR [#1](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/1) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
+4. 🎉 Merged PR [#6](https://github.com/ShubhamJagtap2000/Metasploit/pull/6) in [ShubhamJagtap2000/Metasploit](https://github.com/ShubhamJagtap2000/Metasploit)
+5. 💪 Opened PR [#6](https://github.com/ShubhamJagtap2000/Metasploit/pull/6) in [ShubhamJagtap2000/Metasploit](https://github.com/ShubhamJagtap2000/Metasploit)
 <!--END_SECTION:activity-->
