@@ -14,14 +14,13 @@
 <br>
 
 ## Profile Overview 
-<img 
-   align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamJagtap2000&show_icons=true&theme=radical&count_private=true" 
-/>
 
 <img 
-   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJagtap2000&langs_count=6&layout=compact&theme=radical" 
-/>
-<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjagtap2000&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjagtap2000" /> </p-->
+   align="left" src="https://github-readme-stats.vercel.app/api?username=ShubhamJagtap2000&show_icons=true&theme=radical&count_private=true" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJagtap2000&langs_count=6&layout=compact&theme=radical" />
+<br>
+<br>
+<br>
 <br>
 
 ## Skills
@@ -61,3 +60,7 @@
 ## Hacktoberfest 2022
 
 [![@shubhamjagtap2000's Holopin board](https://holopin.io/api/user/board?user=shubhamjagtap2000)](https://holopin.io/@shubhamjagtap2000)
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
