@@ -1,6 +1,5 @@
 <h1>Hello, I'm SHUBHAM <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-
 - 🔭 I’m currently working on RUST PROGRAMMING, CYBERSECURITY
 - :star: Actively contributing to **HACKTOBERFEST 2022** 
  
@@ -14,6 +13,14 @@
 - ⚡ Fun fact: **NOTHING!**
 <br>
 
+## Profile Overview 
+<img 
+   align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamJagtap2000&show_icons=true&theme=radical&count_private=true" 
+/>
+
+<img 
+   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJagtap2000&langs_count=6&layout=compact&theme=radical" 
+/>
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjagtap2000&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjagtap2000" /> </p-->
 
 ## Skills
