@@ -21,8 +21,7 @@
    align="center-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJagtap2000&langs_count=6&layout=compact&theme=radical" />
 <br>
 <br>
-<br>
-<br>
+
 
 ## Skills
 
