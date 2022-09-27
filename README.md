@@ -15,9 +15,10 @@
 
 ## Profile Overview 
 
-<img 
+<img  
    align="left" src="https://github-readme-stats.vercel.app/api?username=ShubhamJagtap2000&show_icons=true&theme=radical&count_private=true" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJagtap2000&langs_count=6&layout=compact&theme=radical" />
+<img 
+   align="center-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJagtap2000&langs_count=6&layout=compact&theme=radical" />
 <br>
 <br>
 <br>
