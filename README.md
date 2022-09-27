@@ -65,9 +65,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/ShubhamJagtap2000/Metasploit/pull/6) in [ShubhamJagtap2000/Metasploit](https://github.com/ShubhamJagtap2000/Metasploit)
-2. 💪 Opened PR [#6](https://github.com/ShubhamJagtap2000/Metasploit/pull/6) in [ShubhamJagtap2000/Metasploit](https://github.com/ShubhamJagtap2000/Metasploit)
-3. 🎉 Merged PR [#10](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/10) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
-4. 💪 Opened PR [#10](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/10) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
-5. 💪 Opened PR [#376](https://github.com/trimstray/the-book-of-secret-knowledge/pull/376) in [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+1. 🎉 Merged PR [#1](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/1) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
+2. 💪 Opened PR [#1](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/1) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
+3. 🎉 Merged PR [#6](https://github.com/ShubhamJagtap2000/Metasploit/pull/6) in [ShubhamJagtap2000/Metasploit](https://github.com/ShubhamJagtap2000/Metasploit)
+4. 💪 Opened PR [#6](https://github.com/ShubhamJagtap2000/Metasploit/pull/6) in [ShubhamJagtap2000/Metasploit](https://github.com/ShubhamJagtap2000/Metasploit)
+5. 🎉 Merged PR [#10](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/10) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
 <!--END_SECTION:activity-->
