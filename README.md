@@ -16,12 +16,12 @@
 ## Profile Overview 
 
 <p align="left">
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamJagtap2000&theme=radical"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamJagtap2000&theme=radical"/>
 </p>
-<p align="right">
+<p align="left">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamJagtap2000&show_icons=true&theme=radical&count_private=true"/>
 </p>
-<p align="center">
+<p align="left">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJagtap2000&langs_count=6&layout=compact&theme=radical" />
 </p>
 <br>
