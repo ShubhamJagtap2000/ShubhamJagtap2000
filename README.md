@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1400](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1400) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🎉 Merged PR [#2](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/2) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
-3. 💪 Opened PR [#2](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/2) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
-4. 🗣 Commented on [#6](https://github.com/Pradumnasaraf/Snippets/issues/6) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
-5. ❗️ Opened issue [#6](https://github.com/Pradumnasaraf/Snippets/issues/6) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
+1. 💪 Opened PR [#1403](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1403) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Opened issue [#1402](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1402) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. ❗️ Closed issue [#1400](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1400) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. ❌ Closed PR [#1401](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1401) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 💪 Opened PR [#1401](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1401) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
