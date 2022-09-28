@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Pradumnasaraf/Snippets/issues/6) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
-2. ❗️ Opened issue [#6](https://github.com/Pradumnasaraf/Snippets/issues/6) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
-3. ❗️ Opened issue [#852](https://github.com/MakeContributions/DSA/issues/852) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-4. ❗️ Opened issue [#123](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/123) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-5. 🎉 Merged PR [#1](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/1) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
+1. ❗️ Opened issue [#1400](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1400) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 🎉 Merged PR [#2](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/2) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
+3. 💪 Opened PR [#2](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/2) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
+4. 🗣 Commented on [#6](https://github.com/Pradumnasaraf/Snippets/issues/6) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
+5. ❗️ Opened issue [#6](https://github.com/Pradumnasaraf/Snippets/issues/6) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
 <!--END_SECTION:activity-->
