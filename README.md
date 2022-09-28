@@ -15,13 +15,16 @@
 
 ## Profile Overview 
 
-<img  
-   align="left" src="https://github-readme-stats.vercel.app/api?username=ShubhamJagtap2000&show_icons=true&theme=radical&count_private=true" />
-<img 
-   align="center-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJagtap2000&langs_count=6&layout=compact&theme=radical" />
+<p align="left">
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamJagtap2000&theme=radical"/>
+</p>
+<p align="right">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamJagtap2000&show_icons=true&theme=radical&count_private=true"/>
+</p>
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamJagtap2000&langs_count=6&layout=compact&theme=radical" />
+</p>
 <br>
-<br>
-
 
 ## Skills
 
