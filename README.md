@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/IgKniteDev/docs/issues/1) in [IgKniteDev/docs](https://github.com/IgKniteDev/docs)
-2. ❗️ Opened issue [#26](https://github.com/bugtrons/bugtrons.co/issues/26) in [bugtrons/bugtrons.co](https://github.com/bugtrons/bugtrons.co)
-3. ❗️ Opened issue [#1](https://github.com/dhruvsol/All_about_Rust/issues/1) in [dhruvsol/All_about_Rust](https://github.com/dhruvsol/All_about_Rust)
-4. 💪 Opened PR [#39](https://github.com/Design-and-Code/Opensource-practice/pull/39) in [Design-and-Code/Opensource-practice](https://github.com/Design-and-Code/Opensource-practice)
-5. 💪 Opened PR [#64](https://github.com/Design-and-Code/Dope-Github-Readmes/pull/64) in [Design-and-Code/Dope-Github-Readmes](https://github.com/Design-and-Code/Dope-Github-Readmes)
+1. 🗣 Commented on [#8](https://github.com/Pradumnasaraf/Snippets/issues/8) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
+2. 💪 Opened PR [#8](https://github.com/Pradumnasaraf/Snippets/pull/8) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
+3. 🗣 Commented on [#1](https://github.com/IgKniteDev/docs/issues/1) in [IgKniteDev/docs](https://github.com/IgKniteDev/docs)
+4. ❗️ Opened issue [#26](https://github.com/bugtrons/bugtrons.co/issues/26) in [bugtrons/bugtrons.co](https://github.com/bugtrons/bugtrons.co)
+5. ❗️ Opened issue [#1](https://github.com/dhruvsol/All_about_Rust/issues/1) in [dhruvsol/All_about_Rust](https://github.com/dhruvsol/All_about_Rust)
 <!--END_SECTION:activity-->
