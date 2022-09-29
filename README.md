@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/IgKniteDev/docs/issues/1) in [IgKniteDev/docs](https://github.com/IgKniteDev/docs)
-2. 🗣 Commented on [#6](https://github.com/Pradumnasaraf/Snippets/issues/6) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
-3. 💪 Opened PR [#7](https://github.com/Pradumnasaraf/Snippets/pull/7) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
-4. 🗣 Commented on [#6](https://github.com/Pradumnasaraf/Snippets/issues/6) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
-5. 💪 Opened PR [#15](https://github.com/vavkamil/awesome-bugbounty-tools/pull/15) in [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)
+1. 💪 Opened PR [#64](https://github.com/Design-and-Code/Dope-Github-Readmes/pull/64) in [Design-and-Code/Dope-Github-Readmes](https://github.com/Design-and-Code/Dope-Github-Readmes)
+2. ❗️ Opened issue [#1](https://github.com/IgKniteDev/docs/issues/1) in [IgKniteDev/docs](https://github.com/IgKniteDev/docs)
+3. 🗣 Commented on [#6](https://github.com/Pradumnasaraf/Snippets/issues/6) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
+4. 💪 Opened PR [#7](https://github.com/Pradumnasaraf/Snippets/pull/7) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
+5. 🗣 Commented on [#6](https://github.com/Pradumnasaraf/Snippets/issues/6) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
 <!--END_SECTION:activity-->
