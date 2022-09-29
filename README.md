@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/dhruvsol/All_about_Rust/issues/1) in [dhruvsol/All_about_Rust](https://github.com/dhruvsol/All_about_Rust)
-2. 💪 Opened PR [#39](https://github.com/Design-and-Code/Opensource-practice/pull/39) in [Design-and-Code/Opensource-practice](https://github.com/Design-and-Code/Opensource-practice)
-3. 💪 Opened PR [#64](https://github.com/Design-and-Code/Dope-Github-Readmes/pull/64) in [Design-and-Code/Dope-Github-Readmes](https://github.com/Design-and-Code/Dope-Github-Readmes)
-4. ❗️ Opened issue [#1](https://github.com/IgKniteDev/docs/issues/1) in [IgKniteDev/docs](https://github.com/IgKniteDev/docs)
-5. 🗣 Commented on [#6](https://github.com/Pradumnasaraf/Snippets/issues/6) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
+1. ❗️ Opened issue [#26](https://github.com/bugtrons/bugtrons.co/issues/26) in [bugtrons/bugtrons.co](https://github.com/bugtrons/bugtrons.co)
+2. ❗️ Opened issue [#1](https://github.com/dhruvsol/All_about_Rust/issues/1) in [dhruvsol/All_about_Rust](https://github.com/dhruvsol/All_about_Rust)
+3. 💪 Opened PR [#39](https://github.com/Design-and-Code/Opensource-practice/pull/39) in [Design-and-Code/Opensource-practice](https://github.com/Design-and-Code/Opensource-practice)
+4. 💪 Opened PR [#64](https://github.com/Design-and-Code/Dope-Github-Readmes/pull/64) in [Design-and-Code/Dope-Github-Readmes](https://github.com/Design-and-Code/Dope-Github-Readmes)
+5. ❗️ Opened issue [#1](https://github.com/IgKniteDev/docs/issues/1) in [IgKniteDev/docs](https://github.com/IgKniteDev/docs)
 <!--END_SECTION:activity-->
