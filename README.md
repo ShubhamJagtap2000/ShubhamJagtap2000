@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#132](https://github.com/Robotics-Club-BMU/CV-Zone/issues/132) in [Robotics-Club-BMU/CV-Zone](https://github.com/Robotics-Club-BMU/CV-Zone)
-2. ❗️ Opened issue [#95](https://github.com/Robotics-Club-BMU/Ardutronics/issues/95) in [Robotics-Club-BMU/Ardutronics](https://github.com/Robotics-Club-BMU/Ardutronics)
-3. 🗣 Commented on [#33](https://github.com/jhaddix/tbhm/issues/33) in [jhaddix/tbhm](https://github.com/jhaddix/tbhm)
-4. ❗️ Opened issue [#33](https://github.com/jhaddix/tbhm/issues/33) in [jhaddix/tbhm](https://github.com/jhaddix/tbhm)
-5. 🗣 Commented on [#8](https://github.com/Pradumnasaraf/Snippets/issues/8) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
+1. ❗️ Closed issue [#34](https://github.com/CodingContributorsLair/Get-Started-Here/issues/34) in [CodingContributorsLair/Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here)
+2. ❗️ Opened issue [#34](https://github.com/CodingContributorsLair/Get-Started-Here/issues/34) in [CodingContributorsLair/Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here)
+3. ❗️ Opened issue [#134](https://github.com/Robotics-Club-BMU/CV-Zone/issues/134) in [Robotics-Club-BMU/CV-Zone](https://github.com/Robotics-Club-BMU/CV-Zone)
+4. 💪 Opened PR [#133](https://github.com/Robotics-Club-BMU/CV-Zone/pull/133) in [Robotics-Club-BMU/CV-Zone](https://github.com/Robotics-Club-BMU/CV-Zone)
+5. ❗️ Opened issue [#132](https://github.com/Robotics-Club-BMU/CV-Zone/issues/132) in [Robotics-Club-BMU/CV-Zone](https://github.com/Robotics-Club-BMU/CV-Zone)
 <!--END_SECTION:activity-->
