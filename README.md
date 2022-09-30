@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/Pradumnasaraf/Snippets/issues/8) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
-2. 💪 Opened PR [#8](https://github.com/Pradumnasaraf/Snippets/pull/8) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
-3. 🗣 Commented on [#1](https://github.com/IgKniteDev/docs/issues/1) in [IgKniteDev/docs](https://github.com/IgKniteDev/docs)
-4. ❗️ Opened issue [#26](https://github.com/bugtrons/bugtrons.co/issues/26) in [bugtrons/bugtrons.co](https://github.com/bugtrons/bugtrons.co)
-5. ❗️ Opened issue [#1](https://github.com/dhruvsol/All_about_Rust/issues/1) in [dhruvsol/All_about_Rust](https://github.com/dhruvsol/All_about_Rust)
+1. 🗣 Commented on [#33](https://github.com/jhaddix/tbhm/issues/33) in [jhaddix/tbhm](https://github.com/jhaddix/tbhm)
+2. ❗️ Opened issue [#33](https://github.com/jhaddix/tbhm/issues/33) in [jhaddix/tbhm](https://github.com/jhaddix/tbhm)
+3. 🗣 Commented on [#8](https://github.com/Pradumnasaraf/Snippets/issues/8) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
+4. 💪 Opened PR [#8](https://github.com/Pradumnasaraf/Snippets/pull/8) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
+5. 🗣 Commented on [#1](https://github.com/IgKniteDev/docs/issues/1) in [IgKniteDev/docs](https://github.com/IgKniteDev/docs)
 <!--END_SECTION:activity-->
