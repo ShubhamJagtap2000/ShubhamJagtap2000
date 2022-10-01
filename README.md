@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/collab-community/coding-youtubers/pull/58) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
-2. 💪 Opened PR [#57](https://github.com/collab-community/coding-youtubers/pull/57) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
-3. 💪 Opened PR [#159](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/159) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-4. ❗️ Opened issue [#158](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/158) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-5. 🎉 Merged PR [#11](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/11) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
+1. 🎉 Merged PR [#3](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/3) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
+2. 💪 Opened PR [#3](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/3) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
+3. ❗️ Opened issue [#90](https://github.com/codemistic/Data-Structures-and-Algorithms/issues/90) in [codemistic/Data-Structures-and-Algorithms](https://github.com/codemistic/Data-Structures-and-Algorithms)
+4. 💪 Opened PR [#89](https://github.com/codemistic/Data-Structures-and-Algorithms/pull/89) in [codemistic/Data-Structures-and-Algorithms](https://github.com/codemistic/Data-Structures-and-Algorithms)
+5. 💪 Opened PR [#84](https://github.com/codemistic/Data-Structures-and-Algorithms/pull/84) in [codemistic/Data-Structures-and-Algorithms](https://github.com/codemistic/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity-->
