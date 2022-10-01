@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#34](https://github.com/CodingContributorsLair/Get-Started-Here/issues/34) in [CodingContributorsLair/Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here)
-2. ❗️ Opened issue [#34](https://github.com/CodingContributorsLair/Get-Started-Here/issues/34) in [CodingContributorsLair/Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here)
-3. ❗️ Opened issue [#134](https://github.com/Robotics-Club-BMU/CV-Zone/issues/134) in [Robotics-Club-BMU/CV-Zone](https://github.com/Robotics-Club-BMU/CV-Zone)
-4. 💪 Opened PR [#133](https://github.com/Robotics-Club-BMU/CV-Zone/pull/133) in [Robotics-Club-BMU/CV-Zone](https://github.com/Robotics-Club-BMU/CV-Zone)
-5. ❗️ Opened issue [#132](https://github.com/Robotics-Club-BMU/CV-Zone/issues/132) in [Robotics-Club-BMU/CV-Zone](https://github.com/Robotics-Club-BMU/CV-Zone)
+1. ❗️ Opened issue [#330](https://github.com/DSC-JSS-NOIDA/QuickLearn/issues/330) in [DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)
+2. ❗️ Opened issue [#329](https://github.com/DSC-JSS-NOIDA/QuickLearn/issues/329) in [DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)
+3. ❗️ Opened issue [#47](https://github.com/DeveloperAshish8/CodeChamp-s-Website/issues/47) in [DeveloperAshish8/CodeChamp-s-Website](https://github.com/DeveloperAshish8/CodeChamp-s-Website)
+4. ❗️ Opened issue [#46](https://github.com/DeveloperAshish8/CodeChamp-s-Website/issues/46) in [DeveloperAshish8/CodeChamp-s-Website](https://github.com/DeveloperAshish8/CodeChamp-s-Website)
+5. ❗️ Closed issue [#34](https://github.com/CodingContributorsLair/Get-Started-Here/issues/34) in [CodingContributorsLair/Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here)
 <!--END_SECTION:activity-->
