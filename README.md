@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#330](https://github.com/DSC-JSS-NOIDA/QuickLearn/issues/330) in [DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)
-2. ❗️ Opened issue [#329](https://github.com/DSC-JSS-NOIDA/QuickLearn/issues/329) in [DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)
-3. ❗️ Opened issue [#47](https://github.com/DeveloperAshish8/CodeChamp-s-Website/issues/47) in [DeveloperAshish8/CodeChamp-s-Website](https://github.com/DeveloperAshish8/CodeChamp-s-Website)
-4. ❗️ Opened issue [#46](https://github.com/DeveloperAshish8/CodeChamp-s-Website/issues/46) in [DeveloperAshish8/CodeChamp-s-Website](https://github.com/DeveloperAshish8/CodeChamp-s-Website)
-5. ❗️ Closed issue [#34](https://github.com/CodingContributorsLair/Get-Started-Here/issues/34) in [CodingContributorsLair/Get-Started-Here](https://github.com/CodingContributorsLair/Get-Started-Here)
+1. 🗣 Commented on [#330](https://github.com/DSC-JSS-NOIDA/QuickLearn/issues/330) in [DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)
+2. ❗️ Opened issue [#330](https://github.com/DSC-JSS-NOIDA/QuickLearn/issues/330) in [DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)
+3. ❗️ Opened issue [#329](https://github.com/DSC-JSS-NOIDA/QuickLearn/issues/329) in [DSC-JSS-NOIDA/QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn)
+4. ❗️ Opened issue [#47](https://github.com/DeveloperAshish8/CodeChamp-s-Website/issues/47) in [DeveloperAshish8/CodeChamp-s-Website](https://github.com/DeveloperAshish8/CodeChamp-s-Website)
+5. ❗️ Opened issue [#46](https://github.com/DeveloperAshish8/CodeChamp-s-Website/issues/46) in [DeveloperAshish8/CodeChamp-s-Website](https://github.com/DeveloperAshish8/CodeChamp-s-Website)
 <!--END_SECTION:activity-->
