@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/DeveloperAshish8/CodeChamp-s-Website/issues/46) in [DeveloperAshish8/CodeChamp-s-Website](https://github.com/DeveloperAshish8/CodeChamp-s-Website)
-2. 💪 Opened PR [#31](https://github.com/programmer-offbeat/hacktoberfest-2022/pull/31) in [programmer-offbeat/hacktoberfest-2022](https://github.com/programmer-offbeat/hacktoberfest-2022)
-3. 💪 Opened PR [#30](https://github.com/programmer-offbeat/hacktoberfest-2022/pull/30) in [programmer-offbeat/hacktoberfest-2022](https://github.com/programmer-offbeat/hacktoberfest-2022)
-4. 🗣 Commented on [#17](https://github.com/programmer-offbeat/hacktoberfest-2022/issues/17) in [programmer-offbeat/hacktoberfest-2022](https://github.com/programmer-offbeat/hacktoberfest-2022)
-5. 🗣 Commented on [#46](https://github.com/DeveloperAshish8/CodeChamp-s-Website/issues/46) in [DeveloperAshish8/CodeChamp-s-Website](https://github.com/DeveloperAshish8/CodeChamp-s-Website)
+1. 🗣 Commented on [#31](https://github.com/programmer-offbeat/hacktoberfest-2022/issues/31) in [programmer-offbeat/hacktoberfest-2022](https://github.com/programmer-offbeat/hacktoberfest-2022)
+2. 🗣 Commented on [#31](https://github.com/programmer-offbeat/hacktoberfest-2022/issues/31) in [programmer-offbeat/hacktoberfest-2022](https://github.com/programmer-offbeat/hacktoberfest-2022)
+3. 🗣 Commented on [#46](https://github.com/DeveloperAshish8/CodeChamp-s-Website/issues/46) in [DeveloperAshish8/CodeChamp-s-Website](https://github.com/DeveloperAshish8/CodeChamp-s-Website)
+4. 💪 Opened PR [#31](https://github.com/programmer-offbeat/hacktoberfest-2022/pull/31) in [programmer-offbeat/hacktoberfest-2022](https://github.com/programmer-offbeat/hacktoberfest-2022)
+5. 💪 Opened PR [#30](https://github.com/programmer-offbeat/hacktoberfest-2022/pull/30) in [programmer-offbeat/hacktoberfest-2022](https://github.com/programmer-offbeat/hacktoberfest-2022)
 <!--END_SECTION:activity-->
