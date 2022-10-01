@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#158](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/158) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-2. 🎉 Merged PR [#11](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/11) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
-3. 💪 Opened PR [#11](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/11) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
-4. 🗣 Commented on [#36](https://github.com/programmer-offbeat/hacktoberfest-2022/issues/36) in [programmer-offbeat/hacktoberfest-2022](https://github.com/programmer-offbeat/hacktoberfest-2022)
-5. 💪 Opened PR [#36](https://github.com/programmer-offbeat/hacktoberfest-2022/pull/36) in [programmer-offbeat/hacktoberfest-2022](https://github.com/programmer-offbeat/hacktoberfest-2022)
+1. 💪 Opened PR [#58](https://github.com/collab-community/coding-youtubers/pull/58) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
+2. 💪 Opened PR [#57](https://github.com/collab-community/coding-youtubers/pull/57) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
+3. 💪 Opened PR [#159](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/159) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+4. ❗️ Opened issue [#158](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/158) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+5. 🎉 Merged PR [#11](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/11) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
 <!--END_SECTION:activity-->
