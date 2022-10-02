@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/3) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
-2. 💪 Opened PR [#3](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/3) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
-3. ❗️ Opened issue [#90](https://github.com/codemistic/Data-Structures-and-Algorithms/issues/90) in [codemistic/Data-Structures-and-Algorithms](https://github.com/codemistic/Data-Structures-and-Algorithms)
-4. 💪 Opened PR [#89](https://github.com/codemistic/Data-Structures-and-Algorithms/pull/89) in [codemistic/Data-Structures-and-Algorithms](https://github.com/codemistic/Data-Structures-and-Algorithms)
-5. 💪 Opened PR [#84](https://github.com/codemistic/Data-Structures-and-Algorithms/pull/84) in [codemistic/Data-Structures-and-Algorithms](https://github.com/codemistic/Data-Structures-and-Algorithms)
+1. 💪 Opened PR [#40](https://github.com/programmer-offbeat/hacktoberfest-2022/pull/40) in [programmer-offbeat/hacktoberfest-2022](https://github.com/programmer-offbeat/hacktoberfest-2022)
+2. 🎉 Merged PR [#3](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/3) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
+3. 💪 Opened PR [#3](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000/pull/3) in [ShubhamJagtap2000/ShubhamJagtap2000](https://github.com/ShubhamJagtap2000/ShubhamJagtap2000)
+4. ❗️ Opened issue [#90](https://github.com/codemistic/Data-Structures-and-Algorithms/issues/90) in [codemistic/Data-Structures-and-Algorithms](https://github.com/codemistic/Data-Structures-and-Algorithms)
+5. 💪 Opened PR [#89](https://github.com/codemistic/Data-Structures-and-Algorithms/pull/89) in [codemistic/Data-Structures-and-Algorithms](https://github.com/codemistic/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity-->
