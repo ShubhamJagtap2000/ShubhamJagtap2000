@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19309](https://github.com/huggingface/transformers/issues/19309) in [huggingface/transformers](https://github.com/huggingface/transformers)
-2. 💪 Opened PR [#19309](https://github.com/huggingface/transformers/pull/19309) in [huggingface/transformers](https://github.com/huggingface/transformers)
-3. ❗️ Opened issue [#11](https://github.com/zuri-training/Team40-MyDebtor/issues/11) in [zuri-training/Team40-MyDebtor](https://github.com/zuri-training/Team40-MyDebtor)
-4. 🗣 Commented on [#159](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/159) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-5. 💪 Opened PR [#40](https://github.com/programmer-offbeat/hacktoberfest-2022/pull/40) in [programmer-offbeat/hacktoberfest-2022](https://github.com/programmer-offbeat/hacktoberfest-2022)
+1. ❗️ Opened issue [#182](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/182) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+2. 🗣 Commented on [#19309](https://github.com/huggingface/transformers/issues/19309) in [huggingface/transformers](https://github.com/huggingface/transformers)
+3. 💪 Opened PR [#19309](https://github.com/huggingface/transformers/pull/19309) in [huggingface/transformers](https://github.com/huggingface/transformers)
+4. ❗️ Opened issue [#11](https://github.com/zuri-training/Team40-MyDebtor/issues/11) in [zuri-training/Team40-MyDebtor](https://github.com/zuri-training/Team40-MyDebtor)
+5. 🗣 Commented on [#159](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/159) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 <!--END_SECTION:activity-->
