@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#187](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/187) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-2. 🗣 Commented on [#8](https://github.com/Pradumnasaraf/Snippets/issues/8) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
-3. 🎉 Merged PR [#12](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/12) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
-4. 💪 Opened PR [#12](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/12) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
-5. 🎉 Merged PR [#4](https://github.com/ShubhamJagtap2000/Networking-Essentials/pull/4) in [ShubhamJagtap2000/Networking-Essentials](https://github.com/ShubhamJagtap2000/Networking-Essentials)
+1. 🗣 Commented on [#187](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/187) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+2. 💪 Opened PR [#187](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/187) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+3. 🗣 Commented on [#8](https://github.com/Pradumnasaraf/Snippets/issues/8) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
+4. 🎉 Merged PR [#12](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/12) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
+5. 💪 Opened PR [#12](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/12) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
 <!--END_SECTION:activity-->
