@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/12) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
-2. 💪 Opened PR [#12](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/12) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
-3. 🎉 Merged PR [#4](https://github.com/ShubhamJagtap2000/Networking-Essentials/pull/4) in [ShubhamJagtap2000/Networking-Essentials](https://github.com/ShubhamJagtap2000/Networking-Essentials)
-4. 💪 Opened PR [#4](https://github.com/ShubhamJagtap2000/Networking-Essentials/pull/4) in [ShubhamJagtap2000/Networking-Essentials](https://github.com/ShubhamJagtap2000/Networking-Essentials)
-5. 🗣 Commented on [#7](https://github.com/Pradumnasaraf/Snippets/issues/7) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
+1. 🗣 Commented on [#8](https://github.com/Pradumnasaraf/Snippets/issues/8) in [Pradumnasaraf/Snippets](https://github.com/Pradumnasaraf/Snippets)
+2. 🎉 Merged PR [#12](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/12) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
+3. 💪 Opened PR [#12](https://github.com/ShubhamJagtap2000/Cross-site-Scripting/pull/12) in [ShubhamJagtap2000/Cross-site-Scripting](https://github.com/ShubhamJagtap2000/Cross-site-Scripting)
+4. 🎉 Merged PR [#4](https://github.com/ShubhamJagtap2000/Networking-Essentials/pull/4) in [ShubhamJagtap2000/Networking-Essentials](https://github.com/ShubhamJagtap2000/Networking-Essentials)
+5. 💪 Opened PR [#4](https://github.com/ShubhamJagtap2000/Networking-Essentials/pull/4) in [ShubhamJagtap2000/Networking-Essentials](https://github.com/ShubhamJagtap2000/Networking-Essentials)
 <!--END_SECTION:activity-->
