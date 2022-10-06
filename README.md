@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#85](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/issues/85) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
-2. 💪 Opened PR [#84](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/pull/84) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
-3. 💪 Opened PR [#83](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/pull/83) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
-4. 💪 Opened PR [#82](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/pull/82) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
-5. 🗣 Commented on [#187](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/187) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+1. ❗️ Opened issue [#41](https://github.com/SurPathHub/starter-kit/issues/41) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+2. 💪 Opened PR [#1386](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1386) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+3. ❗️ Opened issue [#85](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/issues/85) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
+4. 💪 Opened PR [#84](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/pull/84) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
+5. 💪 Opened PR [#83](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/pull/83) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
 <!--END_SECTION:activity-->
