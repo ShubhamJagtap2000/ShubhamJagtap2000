@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#384](https://github.com/practical-tutorials/project-based-learning/pull/384) in [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-2. 💪 Opened PR [#949](https://github.com/MakeContributions/DSA/pull/949) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-3. ❗️ Opened issue [#41](https://github.com/SurPathHub/starter-kit/issues/41) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-4. 💪 Opened PR [#1386](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1386) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-5. ❗️ Opened issue [#85](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/issues/85) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
+1. 💪 Opened PR [#42](https://github.com/SurPathHub/starter-kit/pull/42) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+2. 🗣 Commented on [#41](https://github.com/SurPathHub/starter-kit/issues/41) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+3. 💪 Opened PR [#384](https://github.com/practical-tutorials/project-based-learning/pull/384) in [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+4. 💪 Opened PR [#949](https://github.com/MakeContributions/DSA/pull/949) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
+5. ❗️ Opened issue [#41](https://github.com/SurPathHub/starter-kit/issues/41) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
 <!--END_SECTION:activity-->
