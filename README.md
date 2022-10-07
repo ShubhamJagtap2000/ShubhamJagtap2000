@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/SurPathHub/starter-kit/pull/42) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-2. 🗣 Commented on [#41](https://github.com/SurPathHub/starter-kit/issues/41) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-3. 💪 Opened PR [#384](https://github.com/practical-tutorials/project-based-learning/pull/384) in [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-4. 💪 Opened PR [#949](https://github.com/MakeContributions/DSA/pull/949) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-5. ❗️ Opened issue [#41](https://github.com/SurPathHub/starter-kit/issues/41) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+1. ❗️ Opened issue [#16](https://github.com/thegeekyb0y/learnpython/issues/16) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
+2. 💪 Opened PR [#15](https://github.com/thegeekyb0y/learnpython/pull/15) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
+3. ❗️ Opened issue [#14](https://github.com/thegeekyb0y/learnpython/issues/14) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
+4. 💪 Opened PR [#13](https://github.com/thegeekyb0y/learnpython/pull/13) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
+5. 💪 Opened PR [#42](https://github.com/SurPathHub/starter-kit/pull/42) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
 <!--END_SECTION:activity-->
