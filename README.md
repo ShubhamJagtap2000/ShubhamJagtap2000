@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#187](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/187) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-2. ❗️ Opened issue [#107](https://github.com/codemistic/General-Projects/issues/107) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
-3. 💪 Opened PR [#106](https://github.com/codemistic/General-Projects/pull/106) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
-4. 🗣 Commented on [#949](https://github.com/MakeContributions/DSA/issues/949) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-5. 💪 Opened PR [#904](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone/pull/904) in [maheshjainckd/Hacktoberfest2022-for-everyone](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone)
+1. 🗣 Commented on [#16](https://github.com/thegeekyb0y/learnpython/issues/16) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
+2. 🗣 Commented on [#187](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/187) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+3. ❗️ Opened issue [#107](https://github.com/codemistic/General-Projects/issues/107) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
+4. 💪 Opened PR [#106](https://github.com/codemistic/General-Projects/pull/106) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
+5. 🗣 Commented on [#949](https://github.com/MakeContributions/DSA/issues/949) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
 <!--END_SECTION:activity-->
