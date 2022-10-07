@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/thegeekyb0y/learnpython/issues/16) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
-2. 💪 Opened PR [#15](https://github.com/thegeekyb0y/learnpython/pull/15) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
-3. ❗️ Opened issue [#14](https://github.com/thegeekyb0y/learnpython/issues/14) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
-4. 💪 Opened PR [#13](https://github.com/thegeekyb0y/learnpython/pull/13) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
-5. 💪 Opened PR [#42](https://github.com/SurPathHub/starter-kit/pull/42) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+1. 🗣 Commented on [#949](https://github.com/MakeContributions/DSA/issues/949) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
+2. 💪 Opened PR [#904](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone/pull/904) in [maheshjainckd/Hacktoberfest2022-for-everyone](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone)
+3. 💪 Opened PR [#903](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone/pull/903) in [maheshjainckd/Hacktoberfest2022-for-everyone](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone)
+4. ❗️ Opened issue [#16](https://github.com/thegeekyb0y/learnpython/issues/16) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
+5. 💪 Opened PR [#15](https://github.com/thegeekyb0y/learnpython/pull/15) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
 <!--END_SECTION:activity-->
