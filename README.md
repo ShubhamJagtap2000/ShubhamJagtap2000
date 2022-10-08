@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#438](https://github.com/Astrodevil/Programming-Basics/pull/438) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
-2. ❗️ Opened issue [#8](https://github.com/aicbe/nn/issues/8) in [aicbe/nn](https://github.com/aicbe/nn)
-3. 💪 Opened PR [#17](https://github.com/thegeekyb0y/learnpython/pull/17) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
-4. 🗣 Commented on [#16](https://github.com/thegeekyb0y/learnpython/issues/16) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
-5. 🗣 Commented on [#187](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/187) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+1. 🗣 Commented on [#58](https://github.com/collab-community/coding-youtubers/issues/58) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
+2. 🗣 Commented on [#58](https://github.com/collab-community/coding-youtubers/issues/58) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
+3. 💪 Opened PR [#438](https://github.com/Astrodevil/Programming-Basics/pull/438) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+4. ❗️ Opened issue [#8](https://github.com/aicbe/nn/issues/8) in [aicbe/nn](https://github.com/aicbe/nn)
+5. 💪 Opened PR [#17](https://github.com/thegeekyb0y/learnpython/pull/17) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
 <!--END_SECTION:activity-->
