@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/thegeekyb0y/learnpython/pull/17) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
-2. 🗣 Commented on [#16](https://github.com/thegeekyb0y/learnpython/issues/16) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
-3. 🗣 Commented on [#187](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/187) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-4. ❗️ Opened issue [#107](https://github.com/codemistic/General-Projects/issues/107) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
-5. 💪 Opened PR [#106](https://github.com/codemistic/General-Projects/pull/106) in [codemistic/General-Projects](https://github.com/codemistic/General-Projects)
+1. 💪 Opened PR [#438](https://github.com/Astrodevil/Programming-Basics/pull/438) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+2. ❗️ Opened issue [#8](https://github.com/aicbe/nn/issues/8) in [aicbe/nn](https://github.com/aicbe/nn)
+3. 💪 Opened PR [#17](https://github.com/thegeekyb0y/learnpython/pull/17) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
+4. 🗣 Commented on [#16](https://github.com/thegeekyb0y/learnpython/issues/16) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
+5. 🗣 Commented on [#187](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/187) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 <!--END_SECTION:activity-->
