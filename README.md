@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#201](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/201) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-2. 💪 Opened PR [#14](https://github.com/Devs-Dungeon/Resources/pull/14) in [Devs-Dungeon/Resources](https://github.com/Devs-Dungeon/Resources)
-3. 💪 Opened PR [#13](https://github.com/Devs-Dungeon/Resources/pull/13) in [Devs-Dungeon/Resources](https://github.com/Devs-Dungeon/Resources)
-4. 💪 Opened PR [#12](https://github.com/Devs-Dungeon/Resources/pull/12) in [Devs-Dungeon/Resources](https://github.com/Devs-Dungeon/Resources)
-5. 💪 Opened PR [#11](https://github.com/Devs-Dungeon/Resources/pull/11) in [Devs-Dungeon/Resources](https://github.com/Devs-Dungeon/Resources)
+1. ❗️ Closed issue [#8](https://github.com/aicbe/nn/issues/8) in [aicbe/nn](https://github.com/aicbe/nn)
+2. 🗣 Commented on [#8](https://github.com/aicbe/nn/issues/8) in [aicbe/nn](https://github.com/aicbe/nn)
+3. ❗️ Opened issue [#201](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/201) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+4. 💪 Opened PR [#14](https://github.com/Devs-Dungeon/Resources/pull/14) in [Devs-Dungeon/Resources](https://github.com/Devs-Dungeon/Resources)
+5. 💪 Opened PR [#13](https://github.com/Devs-Dungeon/Resources/pull/13) in [Devs-Dungeon/Resources](https://github.com/Devs-Dungeon/Resources)
 <!--END_SECTION:activity-->
