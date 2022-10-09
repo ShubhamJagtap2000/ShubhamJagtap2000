@@ -60,7 +60,7 @@
 |--|--|--|
 <br>
 
-## Hacktoberfest 2022
+## Hacktoberfest 2022 Progress
 
 [![@shubhamjagtap2000's Holopin board](https://holopin.io/api/user/board?user=shubhamjagtap2000)](https://holopin.io/@shubhamjagtap2000)
 
