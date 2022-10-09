@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#679](https://github.com/akshitagit/CPP/pull/679) in [akshitagit/CPP](https://github.com/akshitagit/CPP)
-2. 💪 Opened PR [#17](https://github.com/shubhcoder2104/OPENCV-BASICS/pull/17) in [shubhcoder2104/OPENCV-BASICS](https://github.com/shubhcoder2104/OPENCV-BASICS)
-3. 🗣 Commented on [#58](https://github.com/collab-community/coding-youtubers/issues/58) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
+1. ❗️ Opened issue [#200](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/200) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+2. 💪 Opened PR [#679](https://github.com/akshitagit/CPP/pull/679) in [akshitagit/CPP](https://github.com/akshitagit/CPP)
+3. 💪 Opened PR [#17](https://github.com/shubhcoder2104/OPENCV-BASICS/pull/17) in [shubhcoder2104/OPENCV-BASICS](https://github.com/shubhcoder2104/OPENCV-BASICS)
 4. 🗣 Commented on [#58](https://github.com/collab-community/coding-youtubers/issues/58) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
-5. 💪 Opened PR [#438](https://github.com/Astrodevil/Programming-Basics/pull/438) in [Astrodevil/Programming-Basics](https://github.com/Astrodevil/Programming-Basics)
+5. 🗣 Commented on [#58](https://github.com/collab-community/coding-youtubers/issues/58) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
 <!--END_SECTION:activity-->
