@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/rohitg00/DevOpsCommunity/pull/19) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
-2. 💪 Opened PR [#2210](https://github.com/TheAlgorithms/C-Plus-Plus/pull/2210) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-3. ❗️ Opened issue [#6899](https://github.com/TheAlgorithms/Python/issues/6899) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
-4. 🗣 Commented on [#679](https://github.com/akshitagit/CPP/issues/679) in [akshitagit/CPP](https://github.com/akshitagit/CPP)
-5. 💪 Opened PR [#212](https://github.com/crazycodigo/Coding-Basics-HacktoberFest2022/pull/212) in [crazycodigo/Coding-Basics-HacktoberFest2022](https://github.com/crazycodigo/Coding-Basics-HacktoberFest2022)
+1. ❗️ Opened issue [#66](https://github.com/collab-community/coding-youtubers/issues/66) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
+2. 💪 Opened PR [#65](https://github.com/collab-community/coding-youtubers/pull/65) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
+3. 🗣 Commented on [#852](https://github.com/MakeContributions/DSA/issues/852) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
+4. 💪 Opened PR [#19](https://github.com/rohitg00/DevOpsCommunity/pull/19) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
+5. 💪 Opened PR [#2210](https://github.com/TheAlgorithms/C-Plus-Plus/pull/2210) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 <!--END_SECTION:activity-->
