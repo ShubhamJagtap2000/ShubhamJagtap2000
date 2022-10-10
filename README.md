@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#679](https://github.com/akshitagit/CPP/issues/679) in [akshitagit/CPP](https://github.com/akshitagit/CPP)
-2. 💪 Opened PR [#212](https://github.com/crazycodigo/Coding-Basics-HacktoberFest2022/pull/212) in [crazycodigo/Coding-Basics-HacktoberFest2022](https://github.com/crazycodigo/Coding-Basics-HacktoberFest2022)
-3. 💪 Opened PR [#434](https://github.com/knchapagai/ProgrammingHub/pull/434) in [knchapagai/ProgrammingHub](https://github.com/knchapagai/ProgrammingHub)
-4. 💪 Opened PR [#433](https://github.com/knchapagai/ProgrammingHub/pull/433) in [knchapagai/ProgrammingHub](https://github.com/knchapagai/ProgrammingHub)
-5. 💪 Opened PR [#432](https://github.com/knchapagai/ProgrammingHub/pull/432) in [knchapagai/ProgrammingHub](https://github.com/knchapagai/ProgrammingHub)
+1. 💪 Opened PR [#19](https://github.com/rohitg00/DevOpsCommunity/pull/19) in [rohitg00/DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity)
+2. 💪 Opened PR [#2210](https://github.com/TheAlgorithms/C-Plus-Plus/pull/2210) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+3. ❗️ Opened issue [#6899](https://github.com/TheAlgorithms/Python/issues/6899) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+4. 🗣 Commented on [#679](https://github.com/akshitagit/CPP/issues/679) in [akshitagit/CPP](https://github.com/akshitagit/CPP)
+5. 💪 Opened PR [#212](https://github.com/crazycodigo/Coding-Basics-HacktoberFest2022/pull/212) in [crazycodigo/Coding-Basics-HacktoberFest2022](https://github.com/crazycodigo/Coding-Basics-HacktoberFest2022)
 <!--END_SECTION:activity-->
