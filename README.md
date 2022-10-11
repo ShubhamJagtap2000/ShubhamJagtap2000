@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#206](https://github.com/TheFenrisLycaon/DSA-C--/pull/206) in [TheFenrisLycaon/DSA-C--](https://github.com/TheFenrisLycaon/DSA-C--)
-2. 💪 Opened PR [#468](https://github.com/freeCodeCamp/news/pull/468) in [freeCodeCamp/news](https://github.com/freeCodeCamp/news)
-3. 💪 Opened PR [#87](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/pull/87) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
-4. ❗️ Closed issue [#200](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/200) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-5. 🗣 Commented on [#200](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/200) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+1. 💪 Opened PR [#212](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/212) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+2. 💪 Opened PR [#206](https://github.com/TheFenrisLycaon/DSA-C--/pull/206) in [TheFenrisLycaon/DSA-C--](https://github.com/TheFenrisLycaon/DSA-C--)
+3. 💪 Opened PR [#468](https://github.com/freeCodeCamp/news/pull/468) in [freeCodeCamp/news](https://github.com/freeCodeCamp/news)
+4. 💪 Opened PR [#87](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/pull/87) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
+5. ❗️ Closed issue [#200](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/200) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 <!--END_SECTION:activity-->
