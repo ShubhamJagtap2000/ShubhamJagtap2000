@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#200](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/200) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-2. 🗣 Commented on [#200](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/200) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-3. 💪 Opened PR [#42](https://github.com/Shivaminc/Cybersecurity_Resources/pull/42) in [Shivaminc/Cybersecurity_Resources](https://github.com/Shivaminc/Cybersecurity_Resources)
-4. ❗️ Opened issue [#66](https://github.com/collab-community/coding-youtubers/issues/66) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
-5. 💪 Opened PR [#65](https://github.com/collab-community/coding-youtubers/pull/65) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
+1. 💪 Opened PR [#87](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/pull/87) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
+2. ❗️ Closed issue [#200](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/200) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+3. 🗣 Commented on [#200](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/200) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+4. 💪 Opened PR [#42](https://github.com/Shivaminc/Cybersecurity_Resources/pull/42) in [Shivaminc/Cybersecurity_Resources](https://github.com/Shivaminc/Cybersecurity_Resources)
+5. ❗️ Opened issue [#66](https://github.com/collab-community/coding-youtubers/issues/66) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
 <!--END_SECTION:activity-->
