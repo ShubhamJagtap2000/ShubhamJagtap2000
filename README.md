@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/thegeekyb0y/learnpython/pull/23) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
-2. 💪 Opened PR [#18](https://github.com/shubhcoder2104/OPENCV-BASICS/pull/18) in [shubhcoder2104/OPENCV-BASICS](https://github.com/shubhcoder2104/OPENCV-BASICS)
-3. 🗣 Commented on [#87](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/issues/87) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
-4. 💪 Opened PR [#1018](https://github.com/MakeContributions/DSA/pull/1018) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-5. 💪 Opened PR [#1017](https://github.com/MakeContributions/DSA/pull/1017) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
+1. ❌ Closed PR [#212](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/212) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+2. 🗣 Commented on [#212](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/212) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+3. 💪 Opened PR [#23](https://github.com/thegeekyb0y/learnpython/pull/23) in [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython)
+4. 💪 Opened PR [#18](https://github.com/shubhcoder2104/OPENCV-BASICS/pull/18) in [shubhcoder2104/OPENCV-BASICS](https://github.com/shubhcoder2104/OPENCV-BASICS)
+5. 🗣 Commented on [#87](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/issues/87) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
 <!--END_SECTION:activity-->
