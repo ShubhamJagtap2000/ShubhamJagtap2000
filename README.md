@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#807](https://github.com/projectdiscovery/httpx/issues/807) in [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-2. ❗️ Opened issue [#806](https://github.com/projectdiscovery/httpx/issues/806) in [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-3. 💪 Opened PR [#212](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/212) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-4. 💪 Opened PR [#206](https://github.com/TheFenrisLycaon/DSA-C--/pull/206) in [TheFenrisLycaon/DSA-C--](https://github.com/TheFenrisLycaon/DSA-C--)
-5. 💪 Opened PR [#468](https://github.com/freeCodeCamp/news/pull/468) in [freeCodeCamp/news](https://github.com/freeCodeCamp/news)
+1. 💪 Opened PR [#808](https://github.com/projectdiscovery/httpx/pull/808) in [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
+2. ❗️ Opened issue [#807](https://github.com/projectdiscovery/httpx/issues/807) in [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
+3. ❗️ Opened issue [#806](https://github.com/projectdiscovery/httpx/issues/806) in [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
+4. 💪 Opened PR [#212](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/212) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+5. 💪 Opened PR [#206](https://github.com/TheFenrisLycaon/DSA-C--/pull/206) in [TheFenrisLycaon/DSA-C--](https://github.com/TheFenrisLycaon/DSA-C--)
 <!--END_SECTION:activity-->
