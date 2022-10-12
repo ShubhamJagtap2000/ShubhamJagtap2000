@@ -67,9 +67,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1018](https://github.com/MakeContributions/DSA/pull/1018) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-2. 💪 Opened PR [#1017](https://github.com/MakeContributions/DSA/pull/1017) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-3. 🗣 Commented on [#852](https://github.com/MakeContributions/DSA/issues/852) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-4. 💪 Opened PR [#808](https://github.com/projectdiscovery/httpx/pull/808) in [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
-5. ❗️ Opened issue [#807](https://github.com/projectdiscovery/httpx/issues/807) in [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
+1. 🗣 Commented on [#87](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/issues/87) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
+2. 💪 Opened PR [#1018](https://github.com/MakeContributions/DSA/pull/1018) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
+3. 💪 Opened PR [#1017](https://github.com/MakeContributions/DSA/pull/1017) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
+4. 🗣 Commented on [#852](https://github.com/MakeContributions/DSA/issues/852) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
+5. 💪 Opened PR [#808](https://github.com/projectdiscovery/httpx/pull/808) in [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
 <!--END_SECTION:activity-->
