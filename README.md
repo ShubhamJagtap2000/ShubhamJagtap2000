@@ -29,7 +29,7 @@
 ## Skills
 
 #### These are some of the major technologies that I use or have worked on in the past:
-<br>
+
 
 **1. Programming Languages**
 
