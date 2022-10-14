@@ -68,9 +68,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#107](https://github.com/Sahiljawale/CodeChef/pull/107) in [Sahiljawale/CodeChef](https://github.com/Sahiljawale/CodeChef)
-2. 🗣 Commented on [#85](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/issues/85) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
-3. 💪 Opened PR [#405](https://github.com/ratnesh-maurya/your_contribution/pull/405) in [ratnesh-maurya/your_contribution](https://github.com/ratnesh-maurya/your_contribution)
-4. 💪 Opened PR [#100](https://github.com/Sahiljawale/CodeChef/pull/100) in [Sahiljawale/CodeChef](https://github.com/Sahiljawale/CodeChef)
-5. ❌ Closed PR [#212](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/212) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+1. ❗️ Opened issue [#5](https://github.com/hackclub/.github/issues/5) in [hackclub/.github](https://github.com/hackclub/.github)
+2. 💪 Opened PR [#107](https://github.com/Sahiljawale/CodeChef/pull/107) in [Sahiljawale/CodeChef](https://github.com/Sahiljawale/CodeChef)
+3. 🗣 Commented on [#85](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/issues/85) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
+4. 💪 Opened PR [#405](https://github.com/ratnesh-maurya/your_contribution/pull/405) in [ratnesh-maurya/your_contribution](https://github.com/ratnesh-maurya/your_contribution)
+5. 💪 Opened PR [#100](https://github.com/Sahiljawale/CodeChef/pull/100) in [Sahiljawale/CodeChef](https://github.com/Sahiljawale/CodeChef)
 <!--END_SECTION:activity-->
