@@ -68,9 +68,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1018](https://github.com/MakeContributions/DSA/issues/1018) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-2. ❗️ Opened issue [#1](https://github.com/projectboom/assets/issues/1) in [projectboom/assets](https://github.com/projectboom/assets)
-3. ❗️ Opened issue [#5](https://github.com/hackclub/.github/issues/5) in [hackclub/.github](https://github.com/hackclub/.github)
-4. 💪 Opened PR [#107](https://github.com/Sahiljawale/CodeChef/pull/107) in [Sahiljawale/CodeChef](https://github.com/Sahiljawale/CodeChef)
-5. 🗣 Commented on [#85](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/issues/85) in [ACM-Thapar/CS_COURSE_GUIDE](https://github.com/ACM-Thapar/CS_COURSE_GUIDE)
+1. 💪 Opened PR [#116](https://github.com/Sahiljawale/CodeChef/pull/116) in [Sahiljawale/CodeChef](https://github.com/Sahiljawale/CodeChef)
+2. 🗣 Commented on [#1018](https://github.com/MakeContributions/DSA/issues/1018) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
+3. ❗️ Opened issue [#1](https://github.com/projectboom/assets/issues/1) in [projectboom/assets](https://github.com/projectboom/assets)
+4. ❗️ Opened issue [#5](https://github.com/hackclub/.github/issues/5) in [hackclub/.github](https://github.com/hackclub/.github)
+5. 💪 Opened PR [#107](https://github.com/Sahiljawale/CodeChef/pull/107) in [Sahiljawale/CodeChef](https://github.com/Sahiljawale/CodeChef)
 <!--END_SECTION:activity-->
