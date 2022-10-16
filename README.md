@@ -68,9 +68,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#95](https://github.com/RuntimeThinkers/devcheatsheet/pull/95) in [RuntimeThinkers/devcheatsheet](https://github.com/RuntimeThinkers/devcheatsheet)
-2. 💪 Opened PR [#116](https://github.com/Sahiljawale/CodeChef/pull/116) in [Sahiljawale/CodeChef](https://github.com/Sahiljawale/CodeChef)
-3. 🗣 Commented on [#1018](https://github.com/MakeContributions/DSA/issues/1018) in [MakeContributions/DSA](https://github.com/MakeContributions/DSA)
-4. ❗️ Opened issue [#1](https://github.com/projectboom/assets/issues/1) in [projectboom/assets](https://github.com/projectboom/assets)
-5. ❗️ Opened issue [#5](https://github.com/hackclub/.github/issues/5) in [hackclub/.github](https://github.com/hackclub/.github)
+1. ❗️ Opened issue [#577](https://github.com/hackclub/site/issues/577) in [hackclub/site](https://github.com/hackclub/site)
+2. ❌ Reopened PR [#11](https://github.com/Devs-Dungeon/Resources/pull/11) in [Devs-Dungeon/Resources](https://github.com/Devs-Dungeon/Resources)
+3. ❌ Reopened PR [#12](https://github.com/Devs-Dungeon/Resources/pull/12) in [Devs-Dungeon/Resources](https://github.com/Devs-Dungeon/Resources)
+4. ❌ Reopened PR [#13](https://github.com/Devs-Dungeon/Resources/pull/13) in [Devs-Dungeon/Resources](https://github.com/Devs-Dungeon/Resources)
+5. ❌ Reopened PR [#14](https://github.com/Devs-Dungeon/Resources/pull/14) in [Devs-Dungeon/Resources](https://github.com/Devs-Dungeon/Resources)
 <!--END_SECTION:activity-->
