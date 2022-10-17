@@ -68,9 +68,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#577](https://github.com/hackclub/site/issues/577) in [hackclub/site](https://github.com/hackclub/site)
-2. ❌ Reopened PR [#11](https://github.com/Devs-Dungeon/Resources/pull/11) in [Devs-Dungeon/Resources](https://github.com/Devs-Dungeon/Resources)
-3. ❌ Reopened PR [#12](https://github.com/Devs-Dungeon/Resources/pull/12) in [Devs-Dungeon/Resources](https://github.com/Devs-Dungeon/Resources)
-4. ❌ Reopened PR [#13](https://github.com/Devs-Dungeon/Resources/pull/13) in [Devs-Dungeon/Resources](https://github.com/Devs-Dungeon/Resources)
-5. ❌ Reopened PR [#14](https://github.com/Devs-Dungeon/Resources/pull/14) in [Devs-Dungeon/Resources](https://github.com/Devs-Dungeon/Resources)
+1. 💪 Opened PR [#1512](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1512) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+2. 💪 Opened PR [#1511](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1511) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+3. 💪 Opened PR [#1510](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1510) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+4. 💪 Opened PR [#1509](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1509) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+5. ❗️ Opened issue [#577](https://github.com/hackclub/site/issues/577) in [hackclub/site](https://github.com/hackclub/site)
 <!--END_SECTION:activity-->
