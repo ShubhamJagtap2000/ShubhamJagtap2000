@@ -68,9 +68,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#57](https://github.com/collab-community/coding-youtubers/pull/57) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
-2. 💪 Opened PR [#1512](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1512) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-3. 💪 Opened PR [#1511](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1511) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-4. 💪 Opened PR [#1510](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1510) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-5. 💪 Opened PR [#1509](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1509) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+1. ❗️ Opened issue [#1](https://github.com/Pradumnasaraf/Kubernetes/issues/1) in [Pradumnasaraf/Kubernetes](https://github.com/Pradumnasaraf/Kubernetes)
+2. ❌ Closed PR [#57](https://github.com/collab-community/coding-youtubers/pull/57) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
+3. 💪 Opened PR [#1512](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1512) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+4. 💪 Opened PR [#1511](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1511) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+5. 💪 Opened PR [#1510](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1510) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 <!--END_SECTION:activity-->
