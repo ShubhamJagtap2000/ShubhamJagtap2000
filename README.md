@@ -68,9 +68,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com/WebXDAO/blockchain-dev-path/issues/49) in [WebXDAO/blockchain-dev-path](https://github.com/WebXDAO/blockchain-dev-path)
-2. 💪 Opened PR [#48](https://github.com/WebXDAO/blockchain-dev-path/pull/48) in [WebXDAO/blockchain-dev-path](https://github.com/WebXDAO/blockchain-dev-path)
-3. ❗️ Opened issue [#1](https://github.com/Pradumnasaraf/Kubernetes/issues/1) in [Pradumnasaraf/Kubernetes](https://github.com/Pradumnasaraf/Kubernetes)
-4. ❌ Closed PR [#57](https://github.com/collab-community/coding-youtubers/pull/57) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
-5. 💪 Opened PR [#1512](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1512) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+1. 🗣 Commented on [#48](https://github.com/WebXDAO/blockchain-dev-path/issues/48) in [WebXDAO/blockchain-dev-path](https://github.com/WebXDAO/blockchain-dev-path)
+2. ❗️ Opened issue [#49](https://github.com/WebXDAO/blockchain-dev-path/issues/49) in [WebXDAO/blockchain-dev-path](https://github.com/WebXDAO/blockchain-dev-path)
+3. 💪 Opened PR [#48](https://github.com/WebXDAO/blockchain-dev-path/pull/48) in [WebXDAO/blockchain-dev-path](https://github.com/WebXDAO/blockchain-dev-path)
+4. ❗️ Opened issue [#1](https://github.com/Pradumnasaraf/Kubernetes/issues/1) in [Pradumnasaraf/Kubernetes](https://github.com/Pradumnasaraf/Kubernetes)
+5. ❌ Closed PR [#57](https://github.com/collab-community/coding-youtubers/pull/57) in [collab-community/coding-youtubers](https://github.com/collab-community/coding-youtubers)
 <!--END_SECTION:activity-->
