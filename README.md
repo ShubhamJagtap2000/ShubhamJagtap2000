@@ -69,8 +69,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#48](https://github.com/WebXDAO/blockchain-dev-path/issues/48) in [WebXDAO/blockchain-dev-path](https://github.com/WebXDAO/blockchain-dev-path)
-2. ❗️ Opened issue [#52](https://github.com/WebXDAO/blockchain-dev-path/issues/52) in [WebXDAO/blockchain-dev-path](https://github.com/WebXDAO/blockchain-dev-path)
-3. 🗣 Commented on [#48](https://github.com/WebXDAO/blockchain-dev-path/issues/48) in [WebXDAO/blockchain-dev-path](https://github.com/WebXDAO/blockchain-dev-path)
-4. ❗️ Opened issue [#49](https://github.com/WebXDAO/blockchain-dev-path/issues/49) in [WebXDAO/blockchain-dev-path](https://github.com/WebXDAO/blockchain-dev-path)
-5. 💪 Opened PR [#48](https://github.com/WebXDAO/blockchain-dev-path/pull/48) in [WebXDAO/blockchain-dev-path](https://github.com/WebXDAO/blockchain-dev-path)
+2. ❌ Closed PR [#17](https://github.com/shubhcoder2104/OPENCV-BASICS/pull/17) in [shubhcoder2104/OPENCV-BASICS](https://github.com/shubhcoder2104/OPENCV-BASICS)
+3. ❌ Closed PR [#18](https://github.com/shubhcoder2104/OPENCV-BASICS/pull/18) in [shubhcoder2104/OPENCV-BASICS](https://github.com/shubhcoder2104/OPENCV-BASICS)
+4. 🗣 Commented on [#48](https://github.com/WebXDAO/blockchain-dev-path/issues/48) in [WebXDAO/blockchain-dev-path](https://github.com/WebXDAO/blockchain-dev-path)
+5. ❗️ Opened issue [#52](https://github.com/WebXDAO/blockchain-dev-path/issues/52) in [WebXDAO/blockchain-dev-path](https://github.com/WebXDAO/blockchain-dev-path)
 <!--END_SECTION:activity-->
