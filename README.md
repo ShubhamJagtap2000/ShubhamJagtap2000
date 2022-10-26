@@ -28,7 +28,7 @@
 
 ## Skills
 
-#### These are some of the major technologies that I use or have worked on in the past:
+#### These are some of the major technologies that I use or I have worked on in the past:
 
 
 **1. Programming Languages**
