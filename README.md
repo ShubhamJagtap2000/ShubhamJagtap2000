@@ -68,9 +68,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1603](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/issues/1603) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-2. ❗️ Opened issue [#1603](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/issues/1603) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-3. ❗️ Opened issue [#332](https://github.com/WebXDAO/start-here/issues/332) in [WebXDAO/start-here](https://github.com/WebXDAO/start-here)
-4. 🗣 Commented on [#48](https://github.com/WebXDAO/blockchain-dev-path/issues/48) in [WebXDAO/blockchain-dev-path](https://github.com/WebXDAO/blockchain-dev-path)
+1. 💪 Opened PR [#1604](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1604) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+2. 🗣 Commented on [#1603](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/issues/1603) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+3. ❗️ Opened issue [#1603](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/issues/1603) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+4. ❗️ Opened issue [#332](https://github.com/WebXDAO/start-here/issues/332) in [WebXDAO/start-here](https://github.com/WebXDAO/start-here)
 5. 🗣 Commented on [#48](https://github.com/WebXDAO/blockchain-dev-path/issues/48) in [WebXDAO/blockchain-dev-path](https://github.com/WebXDAO/blockchain-dev-path)
 <!--END_SECTION:activity-->
