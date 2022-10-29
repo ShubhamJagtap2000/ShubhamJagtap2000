@@ -2,7 +2,7 @@
 <br>
 
 - 🔭 I’m currently working on RUST PROGRAMMING, CYBERSECURITY
-- :star: Actively participating **HACKTOBERFEST 2022** 
+<!-- :star: Actively participating **HACKTOBERFEST 2022** -->
 - 💻 Here is my programming content: **[The_Technist](https://www.instagram.com/the_technist)**
 <!--🌱 I’m currently learning DSA -->
 <!-- 👯 I’m looking to collaborate on --> 
@@ -59,10 +59,6 @@
 <a href="https://www.linkedin.com/in/shubhamjagtap14/"><img title="LinkedIn" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.twitter.com/Shubhamjag1/"><img align="center" title="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"></a>|<a href="https://instagram.com/the_technist"><img title="Instagram" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_technist" width="40" /></a>
 |--|--|--|
 <br>
-
-## Hacktoberfest 2022 Progress
-
-[![@shubhamjagtap2000's Holopin board](https://holopin.io/api/user/board?user=shubhamjagtap2000)](https://holopin.io/@shubhamjagtap2000)
 
 
 ### :zap: Recent Activity
