@@ -64,9 +64,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5896](https://github.com/EddieHubCommunity/support/issues/5896) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Opened issue [#227](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/227) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-3. 💪 Opened PR [#1604](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1604) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-4. 🗣 Commented on [#1603](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/issues/1603) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-5. ❗️ Opened issue [#1603](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/issues/1603) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+1. 🗣 Commented on [#227](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/227) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+2. ❗️ Opened issue [#5896](https://github.com/EddieHubCommunity/support/issues/5896) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗️ Opened issue [#227](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/227) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+4. 💪 Opened PR [#1604](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1604) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+5. 🗣 Commented on [#1603](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/issues/1603) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 <!--END_SECTION:activity-->
