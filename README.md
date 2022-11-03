@@ -64,9 +64,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#231](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/231) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-2. 🗣 Commented on [#227](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/227) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-3. ❗️ Opened issue [#5896](https://github.com/EddieHubCommunity/support/issues/5896) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Opened issue [#227](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/227) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-5. 💪 Opened PR [#1604](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/1604) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+1. ❌ Closed PR [#66](https://github.com/tuanavu/airflow-tutorial/pull/66) in [tuanavu/airflow-tutorial](https://github.com/tuanavu/airflow-tutorial)
+2. 💪 Opened PR [#66](https://github.com/tuanavu/airflow-tutorial/pull/66) in [tuanavu/airflow-tutorial](https://github.com/tuanavu/airflow-tutorial)
+3. 💪 Opened PR [#231](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/231) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+4. 🗣 Commented on [#227](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/227) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+5. ❗️ Opened issue [#5896](https://github.com/EddieHubCommunity/support/issues/5896) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
