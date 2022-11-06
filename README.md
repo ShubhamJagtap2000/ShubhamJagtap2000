@@ -64,9 +64,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#66](https://github.com/tuanavu/airflow-tutorial/pull/66) in [tuanavu/airflow-tutorial](https://github.com/tuanavu/airflow-tutorial)
-2. 💪 Opened PR [#66](https://github.com/tuanavu/airflow-tutorial/pull/66) in [tuanavu/airflow-tutorial](https://github.com/tuanavu/airflow-tutorial)
-3. 💪 Opened PR [#231](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/231) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-4. 🗣 Commented on [#227](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/227) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-5. ❗️ Opened issue [#5896](https://github.com/EddieHubCommunity/support/issues/5896) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#231](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/231) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+2. ❌ Closed PR [#66](https://github.com/tuanavu/airflow-tutorial/pull/66) in [tuanavu/airflow-tutorial](https://github.com/tuanavu/airflow-tutorial)
+3. 💪 Opened PR [#66](https://github.com/tuanavu/airflow-tutorial/pull/66) in [tuanavu/airflow-tutorial](https://github.com/tuanavu/airflow-tutorial)
+4. 💪 Opened PR [#231](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/231) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+5. 🗣 Commented on [#227](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/227) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 <!--END_SECTION:activity-->
