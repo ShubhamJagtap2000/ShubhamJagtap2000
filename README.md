@@ -1,7 +1,7 @@
 <h1>Hello, I'm SHUBHAM <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <br>
 
-- 🔭 I’m currently working on APACHE AIRFLOW, AMAZON ATHENA
+- 🔭 I’m currently working on APACHE AIRFLOW
 <!-- :star: Actively participating **HACKTOBERFEST 2022** -->
 - 💻 Here is my programming content: **[The_Technist](https://www.instagram.com/the_technist)**
 <!--🌱 I’m currently learning DSA -->
