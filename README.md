@@ -33,8 +33,8 @@
 
 **1. Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="CPP" title="CPP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="CPP" title="CPP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="MySQL" alt="MySQL" width="40px" src="https://user-images.githubusercontent.com/63872951/222911860-8dfcafa5-2b81-4783-a7bd-f553bc9b94f5.png">
+|--|--|--|--|
 
 **2. Libraries**
 
