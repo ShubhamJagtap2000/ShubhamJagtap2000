@@ -7,7 +7,7 @@
 <!--🌱 I’m currently learning DSA -->
 <!-- 👯 I’m looking to collaborate on --> 
 <!-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about CODING, PYTHON, OPENCV, DATA ANALYTICS, BLOGGING, INSTAGRAM CONTENT, ETHICAL HACKING
+- 💬 Ask me about CODING, PYTHON, OPENCV, DATA ANALYTICS, BLOGGING, INSTAGRAM CONTENT, CYBERSECURITY
 <!-- 📫 How to reach me: ... -->
 <!-- 😄 Pronouns: ... -->
 - ⚡ Fun fact: **NOTHING!**
