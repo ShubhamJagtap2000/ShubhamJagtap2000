@@ -39,7 +39,7 @@ jobs:
           exit 1 # prevents further steps from running
 
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           # To prevent issues with cloning early access content later
           persist-credentials: 'false'
