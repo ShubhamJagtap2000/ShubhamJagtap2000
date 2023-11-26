@@ -59,14 +59,3 @@
 <a href="https://www.linkedin.com/in/shubhamjagtap14/"><img title="LinkedIn" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.twitter.com/Shubhamjag1/"><img align="center" title="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"></a>|<a href="https://instagram.com/the_technist"><img title="Instagram" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_technist" width="40" /></a>
 |--|--|--|
 <br>
-
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/231) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-2. ❌ Closed PR [#66](https://github.com/tuanavu/airflow-tutorial/pull/66) in [tuanavu/airflow-tutorial](https://github.com/tuanavu/airflow-tutorial)
-3. 💪 Opened PR [#66](https://github.com/tuanavu/airflow-tutorial/pull/66) in [tuanavu/airflow-tutorial](https://github.com/tuanavu/airflow-tutorial)
-4. 💪 Opened PR [#231](https://github.com/Pradumnasaraf/open-source-with-pradumna/pull/231) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-5. 🗣 Commented on [#227](https://github.com/Pradumnasaraf/open-source-with-pradumna/issues/227) in [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)
-<!--END_SECTION:activity-->
